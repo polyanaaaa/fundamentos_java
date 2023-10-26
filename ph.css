@@ -1,0 +1,37 @@
+body{
+    background-color: darkgray;
+    color: floralwhite;
+    text-align: center;
+    }
+    
+    .align{
+        display:flex;
+        border: 2px solid;
+        border-radius: 5px;
+        background-color:rgb(39, 38, 37);
+        padding: 10px;
+    }
+    
+    table{
+        border-collapse:collapse;
+        border: 3px solid;
+        background-color: dimgray;
+    }
+    
+    h1{
+        font-family: "Audiowide", sans-serif;
+        border: solid;
+        border-radius: 5px;
+        background-color: dimgrey;
+    }
+    
+    img{
+        width: 500px;
+        height: 400px;
+    }
+    
+    .midle{
+        margin: auto;
+      width: 50%;
+      padding: 10px;
+    }

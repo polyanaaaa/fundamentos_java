@@ -1,0 +1,10 @@
+.city {
+    background-color: rgb(33, 155, 159);
+    color: black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
+  .fundo{
+    background-color: rgb(15, 197, 200);
+  }
